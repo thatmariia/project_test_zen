@@ -1,0 +1,9 @@
+{
+  "title": "project_test_zen",
+  "description": "Research software project.",
+  "creators": [
+    {"name": "Project team"}
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}
